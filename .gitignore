@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.xml
+Factor_for_model/.idea/Factor_for_model.iml
+*.csv
+.Rhistory
+*.py
